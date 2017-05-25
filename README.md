@@ -1,8 +1,8 @@
 # CEEO-Inventory-Proejct
 
-By: Bianca Capretta
-Date: August 10th, 2016
-Purpose: to keep track of all the items in Ethan Danahy's office at the CEEO
+BY: Bianca Capretta 
+DATE: August 10th, 2016 
+PURPOSE: to keep track of all the items in Ethan Danahy's office at the CEEO
 
 ## How It Works
 
@@ -21,7 +21,8 @@ and the day before it's due. Along with keeping a real-time inventory of all the
 there also exists a page that will tell you all the relevant info about any item 
 (who checked it out last, when it was last checked out, if it is checked out, etc).
 
-This spreadsheet was created using Google Spreadsheet's tool, Script Editor. 
+This spreadsheet was created using Google Spreadsheet's tool, Script Editor.
+Check it out here: https://docs.google.com/spreadsheets/d/1q74d5TzMP8CcIpwsuiDnNBASyI1cfZQ8WzAVWHrKMdQ/edit?usp=sharing 
 
 ## Google Spreadsheet References
 - Excel Spreadsheet: https://docs.google.com/spreadsheets/d/19Tc7gYlGciGQ8W0jpXmDEEjONIRjiABKlkTXbhdVNns/edit#gid=0
